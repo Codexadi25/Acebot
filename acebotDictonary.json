@@ -29,8 +29,6 @@
 
    "inf" : "We understand you are unhappy that the restaurant has missed following your instructions. We would have been happy to help you with it. Though, we haven't assured you that 100%% instruction will be followed as it depends upon the restaurant and the same is also mentioned in the disclaimer.",
 
-   "mxpromo" : "A one-time use code has been already added to the promo section of your cart. The flat discount of ₹XXXX will be auto-applied once you place the order from the same restaurant(XXXXXXXXXX).",
-
    "ddelay" : "We know what you would be going through as food is something for which one can never wait especially when one is hungry. We request you to consider this as a one time exception and give us another chance to fix this and serve you better.",
 
    "pq" : "Zomato is an intermediary platform connecting restaurants and customers, with limited control over the quality and quantity of the food. However, in an effort to enhance customer satisfaction and avoid potential issues, we actively share feedback with the respective restaurants. However, considering the current scenario, we shall not be able to issue a refund.",
@@ -69,7 +67,7 @@
    
    "wour" : "Hi XXXXX,\n\nHope you are doing well.\n\nThis mail is for Order ID - XXXXXXX from XXXXXXXX.\n\nWe understand the frustration and inconvenience of receiving the wrong item, and we sincerely apologize for this oversight. We certainly never want our customers to face these kinds of issues.\n\nWe would like to inform you that we have not received confirmation from the restaurant partner. Unfortunately without the confirmation, we are unable to make any adjustments in case of compensation against this order.\n\nWe would also request you to drop a review on the restaurant page to help them serve better. If you have any further questions or concerns, please feel free to contact us.\n\nRegards,\nTeam Zomato",
 
-   "mul" : "Hi xxx,\n\nHope you are doing well.\n\nThis mail is for Order ID- xxxx from xxxx\n\nWe understand the issue you had to face regarding the overall experience in your Zomato order. We are dedicated to swiftly resolving this issue and assuring your satisfaction.\n\nWith regard to your...\n\nIf you have any other concerns, please reach out to us. We'll be happy to assist you.\n\nRegards\nTeam Zomato",
+   "mul" : "Hi xxx,\n\nHope you are doing well.\n\nThis mail is for Order ID- xxxx from xxxx\n\nWe understand the issue you had to face regarding the overall experience in your Zomato order. We are dedicated to swiftly resolving this issue and assuring your satisfaction.\n\nWith regard to your...\n\nIf you have any other concerns, please reach out to us. We'll be happy to assist you.\n\nRegards\nTeam Zomato"
 
 
 }
