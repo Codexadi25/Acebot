@@ -4,11 +4,19 @@ import pyautogui
 import pyperclip
 import time
 import json
+import requests
 import os
 import sys
 
 # Dictionary to match strings and corresponding replacements
-url = "https://your-api-endpoint/data.json"
+URIpath = "https://github.com/Codexadi25/Acebot/blob/c24ef0e180aded47d5560296aaa5bfb7363d1e2a/acebotDictonary.json"
+response = requests.get(URIpath)
+
+if response.status_code == 200:
+   replacement_dict = json.loads(response.text)
+else:
+   print("Error fetching Responses : ", response.status_code)
+
 
 # List to hold current typed string
 typed_string = []
