@@ -8,7 +8,7 @@ import os
 import sys
 
 # Dictionary to match strings and corresponding replacements
-{
+replacement_dict = {
    "mymail" : "Aditya.Sahu1@startek.com",
 
    "/pn" : "Karma // Disputes // 0 disputes in linked // \n\nIssues Raised: \n\nObservation :-",
