@@ -77,6 +77,10 @@ replacement_dict = {
 
    "det" : "Hi There,\n\nHope you are doing well.\n\nWe completely understand how inconvenient it could be when the order is not delivered as per expectations. We certainly never want our customers to face these kinds of issues.\n\nRegarding your complaint, we have attempted to locate your details using your registered email ID, but we have been unsuccessful in doing so. We kindly request you to provide us with the necessary information, such as your concerned order ID. Your prompt cooperation in this matter would greatly facilitate our efforts to assist you effectively.\n\nRegards,\nTeam Zomato",
    
+   "wour" : "Hi XXXXX,\n\nHope you are doing well.\n\nThis mail is for Order ID - XXXXXXX from XXXXXXXX.\n\nWe understand the frustration and inconvenience of receiving the wrong item, and we sincerely apologize for this oversight. We certainly never want our customers to face these kinds of issues.\n\nWe would like to inform you that we have not received confirmation from the restaurant partner. Unfortunately without the confirmation, we are unable to make any adjustments in case of compensation against this order.\n\nWe would also request you to drop a review on the restaurant page to help them serve better. If you have any further questions or concerns, please feel free to contact us.\n\nRegards,\nTeam Zomato",
+
+   "mul" : "Hi xxx,\n\nHope you are doing well.\n\nThis mail is for Order ID- xxxx from xxxx\n\nWe understand the issue you had to face regarding the overall experience in your Zomato order. We are dedicated to swiftly resolving this issue and assuring your satisfaction.\n\nWith regard to your...\n\nIf you have any other concerns, please reach out to us. We'll be happy to assist you.\n\nRegards\nTeam Zomato",
+
 
 }
 
@@ -130,9 +134,9 @@ def on_key_event(e):
 # Register a hook for all key events
 keyboard.hook(on_key_event)
 
-print("Axila started listening for key presses...")
-print("Please minimise this window and keep working in background.")
-print("Type 'lsdict' to view complete dictonary.")
-
+print("\t\tAxila started listening for key presses...")
+print("\tPlease minimise this window and keep working in background.")
+print("\n\tType 'lsdict' to view complete dictonary.")
+print("\n\n\n\t\tAditya Tech. & Devoops. - 2024")
 # Keep the script running indefinitely
 keyboard.wait()
