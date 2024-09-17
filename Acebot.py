@@ -134,7 +134,7 @@ def on_key_event(e):
 # Register a hook for all key events
 keyboard.hook(on_key_event)
 
-print("\t\tAxila started listening for key presses...")
+print("\t\tAcebot started listening for key presses...")
 print("\tPlease minimise this window and keep working in background.")
 print("\n\tType 'lsdict' to view complete dictonary.")
 print("\n\n\n\t\tAditya Tech. & Devoops. - 2024")
