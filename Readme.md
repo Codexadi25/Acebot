@@ -1,7 +1,7 @@
-# Acebot Alpha Test Version 0.0.1
+# Acebot α Test Version
 ---
 
-### 🤖 acebot ✨
+### 🤖 Acebot Version 0.0.1 ✨
 
 -----
 
